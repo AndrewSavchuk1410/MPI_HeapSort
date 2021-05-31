@@ -1,0 +1,4 @@
+﻿  MPI_Lab_1.cpp
+C:\Users\andri\source\repos\MPI_Lab_1\MPI_Lab_1\MPI_Lab_1.cpp(17,30): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\andri\source\repos\MPI_Lab_1\MPI_Lab_1\MPI_Lab_1.cpp(142): warning C4715: Merge_Work_Arrays: значение возвращается не при всех путях выполнения
+  MPI_Lab_1.vcxproj -> C:\Users\andri\source\repos\MPI_Lab_1\x64\Debug\MPI_Lab_1.exe

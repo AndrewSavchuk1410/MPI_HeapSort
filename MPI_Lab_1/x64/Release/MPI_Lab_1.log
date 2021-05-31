@@ -1,0 +1,8 @@
+﻿  MPI_Lab_1.cpp
+C:\Users\andri\source\repos\MPI_Lab_1\MPI_Lab_1\MPI_Lab_1.cpp(17,30): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода
+  1 of 27 functions ( 3.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MPI_Lab_1.vcxproj -> C:\Users\andri\source\repos\MPI_Lab_1\x64\Release\MPI_Lab_1.exe
